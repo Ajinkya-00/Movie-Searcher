@@ -28,3 +28,6 @@ Movie Searcher is a simple web application that allows users to search for movie
 - `style.css` - The CSS file that contains the styling for the web page.
 - `app.js` - The JavaScript file that contains the logic for fetching and displaying movie details.
 
+### API Key
+use your own api key
+let api = "https://www.omdbapi.com/?apikey=YOUR_API_KEY&t="
